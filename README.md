@@ -25,7 +25,7 @@ It will create a `dist` folder with packages name according to the project name 
 
 ### Makefile
 
-The `Makefile` contains some examples of other usage
+The `Makefile` contains some examples of other usages.
 
 ## Sources
 
